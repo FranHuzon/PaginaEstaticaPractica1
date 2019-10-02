@@ -1,8 +1,8 @@
 ---
 path: "/blog"
-title: "My first blog post"
+title: "Encabezado"
 description: "Ejemplo"
-date: "2019-05-04"
+date: "02-10-2019"
 ---
 
-Esto es un ejemplo.
+Primera página.
