@@ -5,13 +5,15 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
-    "gatsby": "^2.15.22",
+    "gatsby": "^2.15.26",
+    "gatsby-cli": "^2.7.51",
     "gatsby-image": "^2.2.21",
     "gatsby-plugin-manifest": "^2.2.18",
-    "gatsby-plugin-offline": "^3.0.8",
+    "gatsby-plugin-offline": "^2.2.9",
     "gatsby-plugin-react-helmet": "^3.1.8",
     "gatsby-plugin-sharp": "^2.2.25",
     "gatsby-source-filesystem": "^2.1.26",
+    "gatsby-transformer-remark": "^2.6.24",
     "gatsby-transformer-sharp": "^2.2.17",
     "prop-types": "^15.7.2",
     "react": "^16.9.0",
@@ -19,7 +21,8 @@
     "react-helmet": "^5.2.1"
   },
   "devDependencies": {
-    "prettier": "^1.18.2"
+    "prettier": "^1.18.2",
+    "webpack": "^4.28.4"
   },
   "keywords": [
     "gatsby"
