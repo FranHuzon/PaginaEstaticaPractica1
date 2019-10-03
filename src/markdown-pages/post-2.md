@@ -1,3 +1,3 @@
 #FOTO
 
-![ejemplo](foto.png)
+![ejemplo](/src/images/foto.png)
