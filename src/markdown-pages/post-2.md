@@ -1,0 +1,3 @@
+#FOTO
+
+![ejemplo][foto.png]

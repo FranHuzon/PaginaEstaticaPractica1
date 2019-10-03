@@ -26,3 +26,6 @@ Esto es un ejemplo de una lista numerada:
 
 
 Esto es **negrita** y esto es *cursiva*.
+
+
+[enlace a la pagina 2](franblog.surge.sh/post-2)
