@@ -7,7 +7,7 @@ module.exports = {
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
-      resolve: `gatsby-source-filesystem`,
+      resolve: `gatsby-theme-blog`,
       options: {
         name: `markdown-pages`,
         path: `${__dirname}/src/markdown-pages`,
