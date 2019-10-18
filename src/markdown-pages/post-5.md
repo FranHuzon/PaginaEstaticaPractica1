@@ -1,5 +1,5 @@
 ---
-path: "/post-4"
+path: "/post-5"
 title: "Practica de estaticas"
 description: "Es una practica de paginas estaticas"
 date: "03-10-2019"
